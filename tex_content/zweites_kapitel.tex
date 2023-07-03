@@ -1,0 +1,96 @@
+%!TEX root = ../maturaarbeit.tex
+
+\section{Zweites Kapitel}
+
+\lipsum[4]
+
+\subsection{Bilder einfügen}
+
+Füge ein Bild ein:
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.4\textwidth]{figures/grumpy_cat}
+	\caption[Eintrag in Abbildungsverzeichnis von Grumpy Cat]{Grumpy cat. The Grumpy Cat is a grumpy cat.}
+	\label{fig grumpy cat.}
+\end{figure}
+Natürlich kann man auch Referenzen auf Bilder einfügen.
+Bild \ref{fig grumpy cat.} zeigt die Grumpy Cat.
+Die Breite/Höhe eines Bildes kann man angeben z.B. mit width=3cm oder height=15mm.
+Soll das Bild die halbe Breite des Textes haben, kann man angeben
+width=0.5\textbackslash textwidth
+
+\newpage
+
+\subsection{Listen}
+
+Liste
+\begin{itemize}
+	\item Erstes Element
+	\item Zweites Element
+	\item Drittes Element
+	\item Viertes Element
+\end{itemize}
+
+Sehr kompakte Liste:
+\begin{itemize}
+	\vspace{-\topsep}
+	\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}
+	\item Erstes Element
+	\item Zweites Element
+	\item Drittes Element
+	\item Viertes Element
+\end{itemize}
+
+\subsection{Aufzählung}
+
+Aufzählung mit Zahlen nummeriert:
+\begin{enumerate}
+	\item Erstes Element
+	\item Zweites Element
+	\item Drittes Element
+	\item Viertes Element
+\end{enumerate}
+
+Aufzählung mit Grossbuchstaben nummeriert:
+\begin{enumerate}[label=\Alph*]
+	\item Erstes Element
+	\item Zweites Element
+	\item Drittes Element
+	\item Viertes Element
+\end{enumerate}
+
+Aufzählung mit krossbuchstaben nummeriert:
+\begin{enumerate}[label=\alph*)]
+	\item Erstes Element
+	\item Zweites Element
+	\item Drittes Element
+	\item Viertes Element
+\end{enumerate}
+
+Aufzählung mit römischen Buchstaben nummeriert:
+\begin{enumerate}[label=(\roman*)]
+	\item Erstes Element
+	\item Zweites Element
+	\item Drittes Element
+	\item Viertes Element
+\end{enumerate}
+
+\subsection*{Kapitel ohne Nummerierung}
+
+Wer meine Nummer findet, soll sich bitte bei mir melden!
+
+\subsection{Hilfreiche Links}
+
+\subsubsection{Tabelle}
+
+Verwende den folgenden Tabellen-Generator, um einfache Tabellen zu erzeugen: \url{https://www.tablesgenerator.com}
+
+\subsubsection{Symbole}
+
+Falls du nicht weisst, wie man ein gewisses Symbol in LaTeX darstellst, so hilft dir folgende Seite, um dieses zu identifizieren: \url{http://detexify.kirelabs.org/classify.html}
+
+% \lipsum[1]
+
+\subsection{Zweites Unterkapitel des zweiten Kapitels}
+
+\lipsum[2-3]

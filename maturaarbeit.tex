@@ -1,0 +1,129 @@
+\documentclass[a4paper,12pt,twoside]{article}
+
+\usepackage[german,english]{babel}
+
+%%% FOR DISPLAYING CODE
+\usepackage[procnames]{listings}
+\usepackage{xcolor}
+
+%%% MARGINS
+\usepackage{geometry}
+% INFO: https://www.overleaf.com/learn/latex/Page_size_and_margins
+\geometry{
+	a4paper,
+%	total={170mm,257mm},
+	left=25mm,
+	top=25mm,
+	textwidth=16cm,
+	textheight=23cm,
+%	right=25mm,
+%	bottom=40mm,
+}
+
+%%% SPACING
+%\usepackage{setspace} 
+%\onehalfspacing
+
+\usepackage{siunitx} % for writing numbers with units % e.g. \SI{6.3e8}{km}, \ang{62.59}, \num{100}'s \si{km}, \SI{53}{\degree}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{datetime} 
+\usepackage{color}
+\usepackage{float} %without it, tables position more or less random, with this an writing \begin{table}[H] the table appears right where it is defined!
+\usepackage{mathptmx}
+\usepackage{enumitem}
+\usepackage[T1]{fontenc}
+
+\usepackage[utf8]{inputenc}
+
+%%% HEADER and FOOTER
+%\usepackage[automark,headsepline]{scrpage2}
+%\ihead[]{\headmark}
+%\chead[]{}
+%\ohead[]{\pagemark}
+%\ifoot[]{}
+%\cfoot[\pagemark]{}
+%\ofoot[]{}
+%\pagestyle{scrheadings}
+
+\usepackage{lipsum}
+
+%% LINE SPACING
+\usepackage{setspace}
+\setstretch{1.5}
+
+%%% HYPERLINKS
+\usepackage{hyperref} % muss sich vor cite stuff befinden
+
+%%% CITE
+\usepackage{apacite}
+\bibliographystyle{apacite}
+
+\input{tex_util/code_formatting}
+\input{tex_util/commands}
+
+\begin{document}
+
+\selectlanguage{german} %% HIER SPRACHE EINSTELLEN! english, german
+
+%% TITEL PAGE
+%\title{Titel des Dokumentes}
+%\author{Max Muster}
+%\date{01.01.0001}
+%\maketitle
+
+\input{tex_content/titelblatt}
+
+% \null\thispagestyle{empty}\clearpage
+
+\pagenumbering{roman}
+
+\input{tex_content/abstract}
+
+%\null\thispagestyle{empty}\clearpage
+
+%\null\thispagestyle{empty}\clearpage
+
+\newpage
+
+%% TABLE OF CONTENTS
+%\setcounter{page}{1}
+\tableofcontents
+
+\parindent=0pt
+\parskip=6pt
+
+\newpage
+
+\pagenumbering{arabic}
+
+%%%%%%%% DEIN CODE AB HIER
+
+\input{tex_content/einleitung}
+\newpage
+\input{tex_content/erstes_kapitel}
+\newpage
+\input{tex_content/zweites_kapitel}
+\newpage
+\input{tex_content/code}
+\newpage
+\appendix
+\input{tex_content/erster_anhang}
+\newpage
+\input{tex_content/zweiter_anhang}
+
+%%%%%%%% DEIN CODE BIS HIER
+
+\newpage
+
+\clearpage
+
+\bibliography{tex_content/biblio}
+
+\newpage
+\addcontentsline{toc}{section}{\listfigurename} % Fuege Abb.vz zu TOC hinzu
+\listoffigures % Abbildungsverzeichnis
+
+
+\end{document}
+

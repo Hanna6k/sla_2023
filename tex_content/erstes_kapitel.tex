@@ -1,0 +1,62 @@
+%!TEX root = ../maturaarbeit.tex
+
+\section{Erstes Kapitel}
+
+\subsection{Mit LaTeX arbeiten}
+
+Zuerst muss LaTeX installiert werden: \url{https://www.latex-project.org/get/#tex-distributions}. Für Windows ist MiKTeX eine gute Wahl.
+
+Es gibt viele Editoren, die auf LaTeX spezialisiert sind, wie z.B. Texmaker.
+
+\subsubsection{Visual Studio Code}
+
+Wenn man bereits mit Visual Studio Code arbeitet, so ist es empfohlen, diesen für LaTeX Projekte zu verwenden. Installiere dazu folgende Extensions:
+\begin{itemize}
+    \vspace{-\topsep}
+    \item LaTeX Workshop
+    \item Code Spell Checker mit deutscher Extension
+\end{itemize}
+
+
+\subsubsection{Kompilieren}
+
+Damit eine TeX-File in ein PDF umgewandelt wird, muss es kompiliert werden. Dies kann man in der Konsole machen mit `pdflatex myfile.tex'. Verwendet man einen TeX-Editor, wird dies für einem im Hintergrund erledigt.
+
+Möchte man das Literaturverzeichnis erstellen, muss man dies mit dem `bibtex' Befehl machen.
+
+\subsection{Zitieren}
+
+Video bietet eine leistungsstarke Möglichkeit zur Unterstützung Ihres Standpunkts. Wenn Sie auf "Onlinevideo" klicken, können Sie den Einbettungscode für das Video einfügen, das hinzugefügt werden soll \cite{Aabkabla2019}. Sie können auch ein Stichwort eingeben, um online nach dem Videoclip zu suchen, der optimal zu Ihrem Dokument passt \cite{Lamport1986}.
+
+Video bietet eine leistungsstarke Möglichkeit\footnote{Ich bin eine Fussnote.} zur Unterstützung Ihres Standpunkts. Wenn Sie auf "Onlinevideo" klicken, können Sie den Einbettungscode für das Video einfügen, das hinzugefügt werden soll. Sie können auch ein Stichwort eingeben, um online nach dem Videoclip zu suchen, der optimal zu Ihrem Dokument passt \cite{Ellwanger2015}.
+
+\lipsum[1]
+
+\subsection{Erstes Unterkapitel des ersten Kapitels}
+
+
+%Betrachte den mathematischen Ausdruck \cite{FoodBuch}
+\begin{align}
+\label{equ name der funktion 1} % give the expression a name, use it to refer to this function.
+f(x) = \frac{x^3}{2} + 3 \,. % the \, adds a spacing before the full stop
+\end{align}
+Dieser Ausdruck hat eine Nummer erhalten.
+Um auf einen math. Ausdruck zu verweisen, füge \textbf{niemals} eine \textit{harte} Referenz ein, sondern eine \textit{weiche}:
+Die Funktion, die in Gleichung \eqref{equ name der funktion 1} gegeben ist, ist meine Lieblingsfunktion!
+
+Möchte man nicht, dass eine Formel nummeriert ist, so fügt man einen \* im TeX-Code hinzu
+\begin{align*}
+f(x) = \sin^2{(2\alpha)} + 3
+\end{align*}
+oder benutzt alternativ zwei Dollarzeichen
+$$
+f(x) =  \left( \sin^2{(2\alpha)} + \frac{2}{4} \right) \,.
+$$
+Mit einem Dollarzeichen kann eine Formel auch direkt im Fliesstext angegeben werden $\sin^2 x + \cos^2 x = 1$.
+
+\subsection{Zweites Unterkapitel des ersten Kapitels}
+
+\lipsum[1]
+
+Füge mit \textit{newpage} einen Seitenumbruch ein.
+

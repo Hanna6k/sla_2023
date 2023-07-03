@@ -1,0 +1,52 @@
+%!TEX root = ../maturaarbeit.tex
+
+\section{Code}
+
+\subsection{Python Code}
+
+Code-Ausschnitt:
+
+\begin{python}
+import numpy as np
+
+print("Hello World")
+
+for i in range(3):
+	print(i)
+\end{python}
+
+Code direkt im Fliesstext integriert: \pythoninline{print(42)}.
+
+\subsection{JavaScript and TypeScript Code}
+
+\begin{javascript}
+function greeter(person: string) {
+	return "Hello, " + person;
+} 
+
+let user = "Jane User";
+
+document.body.textContent = greeter(user);
+\end{javascript}
+
+Code direkt im Fliesstext integriert: \javascriptinline{let user = "Jane User";}.
+
+
+\subsection{C\# Code}
+
+\begin{csharp}
+using System;
+
+namespace HelloWorld
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.WriteLine("Hello World!");    
+    }
+  }
+}
+\end{csharp}
+
+Code direkt im Fliesstext integriert: \csharpinline{Console.WriteLine("Hello World!");}.
