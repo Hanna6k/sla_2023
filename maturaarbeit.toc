@@ -1,0 +1,26 @@
+\babel@toc {english}{}\relax 
+\babel@toc {german}{}\relax 
+\contentsline {section}{\numberline {1}Einleitung}{1}{section.1}%
+\contentsline {section}{\numberline {2}Grundlagen}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Aufbau von Galaxien}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Galxien drehen sich zu schnell}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Rotationskurve}{2}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Dunkle Materie}{2}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Erstes Unterkapitel des ersten Kapitels}{3}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Zweites Unterkapitel des ersten Kapitels}{3}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Materie}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Baryonische Materie}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Dunkle Materie}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Aufzählung}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Hilfreiche Links}{6}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Tabelle}{6}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Symbole}{7}{subsubsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.5}Zweites Unterkapitel des zweiten Kapitels}{7}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Code}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Python Code}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}JavaScript and TypeScript Code}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}C\# Code}{8}{subsection.4.3}%
+\contentsline {section}{\numberline {A}Erster Anhang}{10}{appendix.A}%
+\contentsline {section}{\numberline {B}Zweiter Anhang}{11}{appendix.B}%
+\contentsline {section}{Literatur}{12}{section*.4}%
+\contentsline {section}{Abbildungsverzeichnis}{13}{section*.4}%

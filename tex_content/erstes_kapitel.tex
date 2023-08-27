@@ -1,58 +1,45 @@
 %!TEX root = ../maturaarbeit.tex
 
-\section{Erstes Kapitel}
+\section{Grundlagen}
 
-\subsection{Mit LaTeX arbeiten}
+\subsection{Aufbau von Galaxien}
 
-Zuerst muss LaTeX installiert werden: \url{https://www.latex-project.org/get/#tex-distributions}. Für Windows ist MiKTeX eine gute Wahl.
-
-Es gibt viele Editoren, die auf LaTeX spezialisiert sind, wie z.B. Texmaker.
-
-\subsubsection{Visual Studio Code}
-
-Wenn man bereits mit Visual Studio Code arbeitet, so ist es empfohlen, diesen für LaTeX Projekte zu verwenden. Installiere dazu folgende Extensions:
-\begin{itemize}
-    \vspace{-\topsep}
-    \item LaTeX Workshop
-    \item Code Spell Checker mit deutscher Extension
-\end{itemize}
+Es gibt verschiede Arten von Galaxien wie zum Beispiel die Eliptische-, Spiral-, Balken-, Linsenförmige-, 
+und die Irreguläre Galxien. Sie unterscheiden sich in Struktur und Form. Grundsätzlich haben alle ein Gravitationszentrum, um welches sich alles 
+dreht.     
 
 
-\subsubsection{Kompilieren}
 
-Damit eine TeX-File in ein PDF umgewandelt wird, muss es kompiliert werden. Dies kann man in der Konsole machen mit `pdflatex myfile.tex'. Verwendet man einen TeX-Editor, wird dies für einem im Hintergrund erledigt.
+\subsection{Galxien drehen sich zu schnell}
 
-Möchte man das Literaturverzeichnis erstellen, muss man dies mit dem `bibtex' Befehl machen.
+Die Formel zu Berechnung von der Orbital Geschwindigkeit lautet:
+\begin{align*}    
+    v = \sqrt[2]{\frac{G * M}{r}}
+\end{align*}
 
-\subsection{Zitieren}
+Wobei G die Gravitstionskonstante ist, M ist die Masse des Zentralgestirns und r die distanz zwischen den Objekten. Bei M muss 
+beachtet werden, das die gesamte Masse innerhalb der jeweiligen Planetenbahn zählt. 
+Von dieser Formel würde man darauf schliessen, je weiter weg das Objekt desto lamgsamer bewegt sich 
+dieses, da durch r dividiert wird, was auch bei den Planeten in unserem Sonnensystem zu trifft. Dieses Gesetz kann auf alle
+Systeme wo ein Körper ein Zentralbereich umkreist angewendet werden.  
+\subsection{Rotationskurve}
 
-Video bietet eine leistungsstarke Möglichkeit zur Unterstützung Ihres Standpunkts. Wenn Sie auf "Onlinevideo" klicken, können Sie den Einbettungscode für das Video einfügen, das hinzugefügt werden soll \cite{Aabkabla2019}. Sie können auch ein Stichwort eingeben, um online nach dem Videoclip zu suchen, der optimal zu Ihrem Dokument passt \cite{Lamport1986}.
 
-Video bietet eine leistungsstarke Möglichkeit\footnote{Ich bin eine Fussnote.} zur Unterstützung Ihres Standpunkts. Wenn Sie auf "Onlinevideo" klicken, können Sie den Einbettungscode für das Video einfügen, das hinzugefügt werden soll. Sie können auch ein Stichwort eingeben, um online nach dem Videoclip zu suchen, der optimal zu Ihrem Dokument passt \cite{Ellwanger2015}.
+\subsection{Dunkle Materie}
 
-\lipsum[1]
+Es gibt zwei Arten von Dunkler Materie. Die baryonische und die nicht baryonische Dunkle
+Materie. Unter baryonischer Materie versteht man "normale" Materie welche aus Elektronen, Neutronen 
+und Protonen besteht. Damit sind zum Beispiel Objekte wie Massenarme und daher Leuchtschwache Sterne
+gemeint. Diese haben die Fachbezeichnung "MACHO" was für MAssive Compact Halo Objects steht. Diese können
+nicht Direkt beobachtet werden. Wodruch sie wortwörlich einfach dunkle Materie sind.
+Nicht baryonische Materie, wie der Name verrät besteht nicht aus Elektronen, Neutronen und Protonen. Es gibt
+verschiede Vermutungen aus was diese bestehen. (Sibylle Anderl,2023, S. 51) 
+
+
+
 
 \subsection{Erstes Unterkapitel des ersten Kapitels}
 
-
-%Betrachte den mathematischen Ausdruck \cite{FoodBuch}
-\begin{align}
-\label{equ name der funktion 1} % give the expression a name, use it to refer to this function.
-f(x) = \frac{x^3}{2} + 3 \,. % the \, adds a spacing before the full stop
-\end{align}
-Dieser Ausdruck hat eine Nummer erhalten.
-Um auf einen math. Ausdruck zu verweisen, füge \textbf{niemals} eine \textit{harte} Referenz ein, sondern eine \textit{weiche}:
-Die Funktion, die in Gleichung \eqref{equ name der funktion 1} gegeben ist, ist meine Lieblingsfunktion!
-
-Möchte man nicht, dass eine Formel nummeriert ist, so fügt man einen \* im TeX-Code hinzu
-\begin{align*}
-f(x) = \sin^2{(2\alpha)} + 3
-\end{align*}
-oder benutzt alternativ zwei Dollarzeichen
-$$
-f(x) =  \left( \sin^2{(2\alpha)} + \frac{2}{4} \right) \,.
-$$
-Mit einem Dollarzeichen kann eine Formel auch direkt im Fliesstext angegeben werden $\sin^2 x + \cos^2 x = 1$.
 
 \subsection{Zweites Unterkapitel des ersten Kapitels}
 
