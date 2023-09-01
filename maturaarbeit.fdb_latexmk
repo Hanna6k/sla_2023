@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex maturaarbeit"] 0 "maturaarbeit.aux" "maturaarbeit.bbl" "maturaarbeit" 1693150962 -1
+["bibtex maturaarbeit"] 1693510408 "maturaarbeit.aux" "maturaarbeit.bbl" "maturaarbeit" 1693567795 0
   "./tex_content/biblio.bib" 1688387501 814 0ca4b682e688379a1353768c9e549daf ""
   "c:/texlive/2023/texmf-dist/bibtex/bst/apacite/apacite.bst" 1688388563 141073 9d7b79dbf9d91133318126032cff8c27 ""
-  "maturaarbeit.aux" 1693150961 3872 f706f4000732605e62e90b4365321672 "pdflatex"
+  "maturaarbeit.aux" 1693567793 4019 91b49cb8f1c085fa1a3907313ac95573 "pdflatex"
   (generated)
   "maturaarbeit.bbl"
   "maturaarbeit.blg"
   (rewritten before read)
-["pdflatex"] 1693150959 "c:/Users/hanna/OneDrive/Dokumente/SLA/sla_2023/maturaarbeit.tex" "maturaarbeit.pdf" "maturaarbeit" 1693150962 0
+["pdflatex"] 1693567791 "c:/Users/hanna/OneDrive/Dokumente/SLA/sla_2023/maturaarbeit.tex" "maturaarbeit.pdf" "maturaarbeit" 1693567795 0
   "c:/Users/hanna/OneDrive/Dokumente/SLA/sla_2023/maturaarbeit.tex" 1688548013 2413 5e172eb7c72ed2a9af3e7c0f2b7f9ca6 ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1688389559 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1688389189 2971 def0b6c1f0b107b3b936def894055589 ""
@@ -176,20 +176,20 @@
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1688408430 8172446 0091b392026b8e7d27cb877823a11f72 ""
   "c:/texlive/2023/texmf.cnf" 1688408201 713 e69b156964470283e0530f5060668171 ""
   "figures/grumpy_cat.jpg" 1688387501 70942 684f0a72fb5fa903db84ac8d1df0792c ""
-  "maturaarbeit.aux" 1693150961 3872 f706f4000732605e62e90b4365321672 "pdflatex"
-  "maturaarbeit.bbl" 1693142930 49 0eba253fc001332e731e8aba3f23127b "bibtex maturaarbeit"
-  "maturaarbeit.lof" 1693150961 176 31fe73233341ab9f5eec5e386b62eb64 "pdflatex"
-  "maturaarbeit.out" 1693150961 3418 3bff6987948a4c2c1eefde851e21fe55 "pdflatex"
+  "maturaarbeit.aux" 1693567793 4019 91b49cb8f1c085fa1a3907313ac95573 "pdflatex"
+  "maturaarbeit.bbl" 1693510409 49 0eba253fc001332e731e8aba3f23127b "bibtex maturaarbeit"
+  "maturaarbeit.lof" 1693567793 176 205899cf60a283f9eda06668ead26bbf "pdflatex"
+  "maturaarbeit.out" 1693567793 3688 af9a3ec26d460bd64aaf7b9eb644357b "pdflatex"
   "maturaarbeit.tex" 1688548013 2413 5e172eb7c72ed2a9af3e7c0f2b7f9ca6 ""
-  "maturaarbeit.toc" 1693150961 1969 90dc61d35cca5e2f5fe4339aa13ab7e6 "pdflatex"
+  "maturaarbeit.toc" 1693567793 2075 0bf3eedad359e4d038f3e37a8b9f3050 "pdflatex"
   "tex_content/abstract.tex" 1693142378 78 dc6908e187d913bda82d7af892d4d66f ""
   "tex_content/code.tex" 1688387501 857 3411cef9caaaf1e7c35a36c6a5917361 ""
   "tex_content/einleitung.tex" 1692642830 71 fcb0240f8c4113b97ac1436798cf66d8 ""
-  "tex_content/erster_anhang.tex" 1688387501 526 0b4ea4486781d94bb9035c401a1d0e21 ""
-  "tex_content/erstes_kapitel.tex" 1693150959 2009 fb105f6dac27a29051792770ae3f201f ""
+  "tex_content/erster_anhang.tex" 1693422224 532 2b1bcd94cb384bed60611304cbcda2f7 ""
+  "tex_content/erstes_kapitel.tex" 1693567790 5970 9711559726653c43bdc0b753e89333af ""
   "tex_content/titelblatt.tex" 1693129198 822 6d73195a31fc42477c431fc6224f2add ""
   "tex_content/zweiter_anhang.tex" 1688387501 79 3dd327749b06be163cffc78055704771 ""
-  "tex_content/zweites_kapitel.tex" 1688461638 2427 aa059b8d6f3a1150e23b0d4a1926364a ""
+  "tex_content/zweites_kapitel.tex" 1693156871 2429 78b83e8d8f208768cc5175ccf65e513d ""
   "tex_util/code_formatting.tex" 1688387501 4204 51cf781f87857ada89c845eac6f62cb7 ""
   "tex_util/commands.tex" 1688387501 1472 836abbf0ad87eb08c8e97ac7a2799146 ""
   (generated)
