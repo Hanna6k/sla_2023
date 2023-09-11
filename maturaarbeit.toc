@@ -1,17 +1,12 @@
 \babel@toc {english}{}\relax 
 \babel@toc {german}{}\relax 
 \contentsline {section}{\numberline {1}Einleitung}{1}{section.1}%
-\contentsline {section}{\numberline {2}Kapitel 2}{2}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Aufbau von Galaxien}{2}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Rotationskurve}{2}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Galaxien drehen sich zu schnell}{3}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}mögliche Begründungen}{4}{subsubsection.2.3.1}%
-\contentsline {section}{\numberline {3}Kapitel 3}{5}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Die vier fundamentale Wechselwirkungen}{5}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Dunkle Materie}{5}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Galaxien mit dunkler Materie}{6}{subsection.3.3}%
-\contentsline {section}{\numberline {4}Kapitel 4}{7}{section.4}%
-\contentsline {section}{\numberline {A}Erster Anhang}{8}{appendix.A}%
-\contentsline {section}{\numberline {B}Zweiter Anhang}{9}{appendix.B}%
-\contentsline {section}{Literatur}{10}{section*.3}%
-\contentsline {section}{Abbildungsverzeichnis}{11}{section*.3}%
+\contentsline {section}{\numberline {2}Die vier fundamentalen Wechselwirkungen}{2}{section.2}%
+\contentsline {section}{\numberline {3}Dunkle Materie}{2}{section.3}%
+\contentsline {section}{\numberline {4}Aufbau von Galaxien}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Die Rotationskurve}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Galaxien drehen zu schnell}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Zusammenhang}{9}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Schlusswort}{10}{section.5}%
+\contentsline {section}{Literatur}{11}{section*.3}%
+\contentsline {section}{Abbildungsverzeichnis}{12}{section*.3}%

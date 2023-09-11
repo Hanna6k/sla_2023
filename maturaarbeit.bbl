@@ -1,3 +1,187 @@
 \begin{thebibliography}{}
 
+\bibitem [\protect \citeauthoryear {%
+Anderl%
+}{%
+Anderl%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+Anderl2023}
+\APACinsertmetastar {%
+Anderl2023}%
+\begin{APACrefauthors}%
+Anderl, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2023}.
+\newblock
+\APACrefbtitle {Dunkle Materie: Das grosse Rätsel der Kosmologie} {Dunkle materie: Das grosse rätsel der kosmologie}\ (\PrintOrdinal{2}\ \BEd).
+\newblock
+\APACaddressPublisher{München}{C.H.Beck}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bührke%
+}{%
+Bührke%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+Bührke2022}
+\APACinsertmetastar {%
+Bührke2022}%
+\begin{APACrefauthors}%
+Bührke, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2022}.
+\newblock
+\APACrefbtitle {Was ist Munkle Materie: Die Suche nach der unsichtbaren Kraft im All} {Was ist munkle materie: Die suche nach der unsichtbaren kraft im all}\ (\PrintOrdinal{1}\ \BEd).
+\newblock
+\APACaddressPublisher{Stuttgart}{Franckh-Kosmos Verlags-GmbH}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Friedrich%
+}{%
+Friedrich%
+}{%
+{\protect \APACyear {1969}}%
+}]{%
+Friedrich1968}
+\APACinsertmetastar {%
+Friedrich1968}%
+\begin{APACrefauthors}%
+Friedrich, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1969}.
+\newblock
+\APACrefbtitle {Geschichte der Astronomie} {Geschichte der astronomie}\ (\PrintOrdinal{1}\ \BEd).
+\newblock
+\APACaddressPublisher{Mannheim}{Bibliographisches Institut, B.I.-Wissenschaftsverlag}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hornung%
+}{%
+Hornung%
+}{%
+{\protect \APACyear {1998}}%
+}]{%
+Hornung1998}
+\APACinsertmetastar {%
+Hornung1998}%
+\begin{APACrefauthors}%
+Hornung, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1998}.
+\newblock
+\APACrefbtitle {Die Nachtfahrt der Sonne} {Die nachtfahrt der sonne}\ (\PrintOrdinal{1}\ \BEd).
+\newblock
+\APACaddressPublisher{Düsseldorf}{Artemis und Winkler}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Moeller%
+}{%
+Moeller%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Moeller2010}
+\APACinsertmetastar {%
+Moeller2010}%
+\begin{APACrefauthors}%
+Moeller, A\BHBI K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2010}.
+\unskip\
+\newblock
+\APACrefbtitle {Rotation von Galaxien} {Rotation von galaxien}\ \APACtypeAddressSchool {Bachelor thesis}{}{}.
+\unskip\
+\newblock
+\APACaddressSchool {Example City, CA}{Universität Bielefeld}.
+\unskip\
+\newblock
+\APACrefnote{Available at \url{https://www2.physik.uni-bielefeld.de/fileadmin/user_upload/theory_e6/Bachelor_Theses/Bachelorarbeit_AnnKristinMoeller.pdf}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ribas%
+}{%
+Ribas%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+Ribas2020}
+\APACinsertmetastar {%
+Ribas2020}%
+\begin{APACrefauthors}%
+Ribas, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2020}.
+\newblock
+\APACrefbtitle {Unsere Galaxis: Eine faszinierende Reise durch die Milchstrasse} {Unsere galaxis: Eine faszinierende reise durch die milchstrasse}\ (\PrintOrdinal{1}\ \BEd).
+\newblock
+\APACaddressPublisher{München}{National Geography}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Sofue}%
+\ \BBA {} {Rubin}%
+}{%
+{Sofue}%
+\ \BBA {} {Rubin}%
+}{%
+{\protect \APACyear {2001}}%
+}]{%
+SofueVera2000}
+\APACinsertmetastar {%
+SofueVera2000}%
+\begin{APACrefauthors}%
+{Sofue}, Y.%
+\BCBT {}\ \BBA {} {Rubin}, V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{{\APACmonth{01}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Rotation Curves of Spiral Galaxies}} {{Rotation Curves of Spiral Galaxies}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Abgerufen am 2. September 2023 von Arxive: \url{https://ui.adsabs.harvard.edu/abs/2001ARA&A..39..137S}}{39}{}{137-174}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Walker%
+}{%
+Walker%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+Walker1999}
+\APACinsertmetastar {%
+Walker1999}%
+\begin{APACrefauthors}%
+Walker, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1999}.
+\newblock
+\APACrefbtitle {Astronomy Befor the Telescope} {Astronomy befor the telescope}\ (\PrintOrdinal{1}\ \BEd).
+\newblock
+\APACaddressPublisher{London}{British Museum Press}.
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}

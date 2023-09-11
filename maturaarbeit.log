@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.3)  3 SEP 2023 21:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.3)  11 SEP 2023 20:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/hanna/OneDrive/Dokumente/SLA/sla_2023/maturaarbeit.tex
-(c:/Users/hanna/OneDrive/Dokumente/SLA/sla_2023/maturaarbeit.tex
+**c:/Users/hanna/OneDrive/Dokumente/SLA/sla_not_empty/maturaarbeit.tex
+(c:/Users/hanna/OneDrive/Dokumente/SLA/sla_not_empty/maturaarbeit.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-30>
 (c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -594,41 +594,46 @@ Overfull \hbox (17.62482pt too wide) in paragraph at lines 7--23
 [][] 
  []
 
-<example-image-1x1.pdf, id=63, 200.75pt x 200.75pt>
-File: example-image-1x1.pdf Graphic file (type pdf)
-<use example-image-1x1.pdf>
-Package pdftex.def Info: example-image-1x1.pdf  used on input line 30.
-(pdftex.def)             Requested size: 68.28383pt x 68.28471pt.
+<figures/galaxy.jpg, id=43, 706.64pt x 397.485pt>
+File: figures/galaxy.jpg Graphic file (type jpg)
+<use figures/galaxy.jpg>
+Package pdftex.def Info: figures/galaxy.jpg  used on input line 32.
+(pdftex.def)             Requested size: 318.66946pt x 179.25476pt.
 [1
 
 
-{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc} <c:/texlive/2023/texmf-dist/tex/latex/mwe/example-image-1x1.pdf>]) (./tex_content/abstract.tex) [1] (./maturaarbeit.toc
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 5.
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc} <./figures/galaxy.jpg>]) (./tex_content/abstract.tex)
+Overfull \hbox (6.53737pt too wide) in paragraph at lines 5--82
+\T1/ptm/m/n/12 Die Mes-sun-gen und Be-rech-nun-gen der Ro-ta-ti-ons-kur-ven von Ga-la-xi-en ver-deut-li-chen, dass Dunkle
+ []
+
+[1] (./maturaarbeit.toc
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 7.
  (c:/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 5.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 7.
  (c:/texlive/2023/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 5.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 7.
  (c:/texlive/2023/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 5.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 7.
  (c:/texlive/2023/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 7.
  (c:/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 )
 \tf@toc=\write4
 \openout4 = `maturaarbeit.toc'.
@@ -638,47 +643,77 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 <to be read again> 
                    \relax 
 l.103 \newpage
-               [1] (./tex_content/erstes_kapitel.tex
+               [1] (./tex_content/erstes_kapitel.tex) [2] [3] (./tex_content/zweites_kapitel.tex
+Overfull \hbox (2.69342pt too wide) in paragraph at lines 5--10
+\T1/ptm/m/n/12 linsenförmige-, und die ir-re-gu-lä-re Ga-la-xi-en. Sie un-ter-schei-den sich in Struk-tur und Form. Grund-
+ []
+
+<figures/aufbau_galaxie.jpg, id=108, 362.85562pt x 302.63063pt>
+File: figures/aufbau_galaxie.jpg Graphic file (type jpg)
+<use figures/aufbau_galaxie.jpg>
+Package pdftex.def Info: figures/aufbau_galaxie.jpg  used on input line 13.
+(pdftex.def)             Requested size: 182.09485pt x 151.87369pt.
+<figures/right_curve.jpg, id=115, 286.1892pt x 167.6664pt>
+File: figures/right_curve.jpg Graphic file (type jpg)
+<use figures/right_curve.jpg>
+Package pdftex.def Info: figures/right_curve.jpg  used on input line 29.
+(pdftex.def)             Requested size: 273.14922pt x 160.02664pt.
+[4 <./figures/aufbau_galaxie.jpg>] [5 <./figures/right_curve.jpg>]
+<figures/dark_matter_halo.jpg, id=139, 3212.0pt x 1806.75pt>
+File: figures/dark_matter_halo.jpg Graphic file (type jpg)
+<use figures/dark_matter_halo.jpg>
+Package pdftex.def Info: figures/dark_matter_halo.jpg  used on input line 68.
+(pdftex.def)             Requested size: 273.14922pt x 153.64064pt.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2]
+ [6]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3]) [4] (./tex_content/zweites_kapitel.tex [5]) [6] (./tex_content/drittel_kapitel.tex) [7] (./tex_content/erster_anhang.tex
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 7.
- (c:/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)) [8] (./tex_content/zweiter_anhang.tex) [9] (./maturaarbeit.bbl
+ [7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
+ [8 <./figures/dark_matter_halo.jpg>]) [9] (./tex_content/schlusswort.tex) [10] (./maturaarbeit.bbl
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 115.
+ (c:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+Underfull \hbox (badness 2351) in paragraph at lines 102--117
+\T1/ptm/m/n/12 Ex-am-ple Ci-ty, CA.  (Availa-ble at []$\T1/cmtt/m/n/12 https :// www2 [] .physik [] .uni [] -bielefeld [] .de /
+ []
 
-) [10
 
-] (./maturaarbeit.lof)
+Underfull \hbox (badness 10000) in paragraph at lines 102--117
+\T1/cmtt/m/n/12 fileadmin / user [] []upload / theory [] []e6 / Bachelor [] []Theses / Bachelorarbeit []
+ []
+
+) [11
+
+{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] (./maturaarbeit.lof)
 \tf@lof=\write5
 \openout5 = `maturaarbeit.lof'.
 
- [11] (./maturaarbeit.aux)
+ [12] (./tex_content/versicherung.tex) [13] (./maturaarbeit.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-30>
  ***********
 Package rerunfilecheck Info: File `maturaarbeit.out' has not changed.
-(rerunfilecheck)             Checksum: 158CC2160956244485420A0F9C374EB2;2121.
+(rerunfilecheck)             Checksum: CCE7F35154AA7FCCAF476185E6AECBCE;1400.
  ) 
 Here is how much of TeX's memory you used:
- 19814 strings out of 475237
- 371488 string characters out of 5768556
- 1925238 words of memory out of 5000000
- 40697 multiletter control sequences out of 15000+600000
- 592303 words of font info for 88 fonts, out of 8000000 for 9000
+ 19849 strings out of 475237
+ 372248 string characters out of 5768556
+ 1929238 words of memory out of 5000000
+ 40722 multiletter control sequences out of 15000+600000
+ 594955 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,13n,93p,1087b,949s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on maturaarbeit.pdf (14 pages, 114101 bytes).
+ 79i,13n,93p,1092b,949s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfit1200.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on maturaarbeit.pdf (16 pages, 4565083 bytes).
 PDF statistics:
- 209 PDF objects out of 1000 (max. 8388607)
- 174 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
- 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 237 PDF objects out of 1000 (max. 8388607)
+ 195 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
